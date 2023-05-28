@@ -33,6 +33,7 @@ public class CollectionsUtility {
 
         System.out.println("----------------");
 
+        System.out.println("-----");
         Collections.reverse(items);
         System.out.println(items);
 
@@ -48,11 +49,6 @@ public class CollectionsUtility {
 
 
         System.out.println("---------------------");
-
-
-
-
-
 
 
 
